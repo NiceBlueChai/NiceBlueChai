@@ -15,4 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![info](https://github-readme-stats.vercel.app/api?username=NiceBlueChai&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
+<p align="center">
+  <a href="https://github.com/Charmve" class="rich-diff-level-one">
+    <img src="https://github-readme-stats.vercel.app/api?username=NiceBlueChai&show_icons=true&count_private=true&hide=prs&theme=default_repocard" alt="NiceBlueChai's Stats" >
+    <!-- &hide=issues
+    <img src="https://github-readme-stats.vercel.app/api?username=NiceBlueChai&show_icons=true&count_private=true&hide=prs&theme=default_repocard" alt="NiceBlueChai's Stats" >
+    -->
+  </a>
+</p>
