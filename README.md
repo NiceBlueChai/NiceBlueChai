@@ -24,8 +24,6 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-![NiceBlueChai's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=NiceBlueChai&show_icons=true&count_private=true&theme=gotham)
-
 
 **Languages and Frameworks**
 
