@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NiceBlueChai&layout=compact)](https://github.com/NiceBlueChai)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NiceBlueChai&layout=compact)](https://github.com/NiceBlueChai/NiceBlueChai)
 
 
 **Languages and Frameworks**
